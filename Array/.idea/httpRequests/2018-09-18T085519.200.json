@@ -1,0 +1,46 @@
+{
+  "success": true,
+  "data": {
+    "listData": [
+      {
+        "id": 6,
+        "name": "user",
+        "createdate": "2018-06-14T12:46:36.000+0000",
+        "deparment": {
+          "id": 6,
+          "name": "开发部"
+        },
+        "roles": [
+          {
+            "id": 7,
+            "name": "admin"
+          },
+          {
+            "id": 8,
+            "name": "manager"
+          }
+        ]
+      },
+      {
+        "id": 7,
+        "name": "wang",
+        "createdate": null,
+        "deparment": null,
+        "roles": []
+      }
+    ],
+    "totalCount": 2,
+    "currentPage": 0,
+    "totalPage": 1,
+    "prePage": 1,
+    "nextPage": 1,
+    "pageSize": 10,
+    "beginPage": 1,
+    "pageIndex": {
+      "beginIndex": 1,
+      "endIndex": 1
+    }
+  },
+  "errorMsg": null,
+  "errorCode": 0
+}
